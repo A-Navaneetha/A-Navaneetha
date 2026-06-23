@@ -10,8 +10,6 @@ Building innovative web applications, solving complex problems, and continuously
 
 </div>
 
----
-
 ## 🚀 About Me
 
 * 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science**
@@ -20,8 +18,6 @@ Building innovative web applications, solving complex problems, and continuously
 * 🔍 Interested in Software Development and Full Stack Development
 * 🚀 Love building real-world projects that solve practical problems
 * 🎯 Focused on continuous learning and career growth
-
----
 
 ## 🛠️ Tech Stack
 
@@ -48,8 +44,6 @@ Building innovative web applications, solving complex problems, and continuously
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
----
-
 ## 🌟 Featured Projects
 
 ### 💼 Personal Portfolio Website
@@ -68,16 +62,12 @@ A responsive React-based school website designed to provide information about ac
 
 A modern calculator built with React.js featuring scientific functions and responsive design.
 
----
-
 ## 📚 Current Learning
 
 * Data Structures & Algorithms
 * Advanced Java
 * Full Stack Development
 * Problem Solving & Competitive Programming
-
----
 
 ## 🎯 Current Goals
 
@@ -91,16 +81,12 @@ A modern calculator built with React.js featuring scientific functions and respo
 
 ✔ Start Software Development Career
 
----
-
 ## 📈 GitHub Journey
 
 * 🚀 Building projects consistently
 * 💻 Practicing coding daily
 * 📚 Learning modern technologies
 * 🌱 Improving every day through hands-on development
-
----
 
 ## 🤝 Connect With Me
 
@@ -113,8 +99,6 @@ A modern calculator built with React.js featuring scientific functions and respo
 🟢 **HackerRank:** hackerrank.com/profile/23HR1A3002
 
 🟤 **CodeChef:** codechef.com/users/anavaneetha
-
----
 
 <div align="center">
 
