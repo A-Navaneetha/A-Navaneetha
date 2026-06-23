@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm A.Navaneetha
 
-### 🎓 B.Tech Final Year Student • AI & Data Science Streamline
+<i> <b> 🎓 B.Tech Final Year Student • AI & Data Science Streamline <b> </i>
 
 ### 💻 Java Developer • 🌐 Web Developer • 💡 Learning DSA
 
@@ -52,21 +52,21 @@
 
 ## 🌟 Featured Projects
 
-### 👨‍💻 Personal Portfolio Website
+* ### 👨‍💻 Personal Portfolio Website
 
 <i> A professional portfolio showcasing skills, projects, certifications, and achievements.</i>
 
-### 🚢 CaptainBook – Ship Reservation System
+* ### 🚢 CaptainBook – Ship Reservation System
 
-A full-stack web application that enables users to search ships, view schedules, reserve tickets, and manage bookings through an intuitive interface.
+<i> A full-stack web application that enables users to search ships, view schedules, reserve tickets, and manage bookings through an intuitive interface.</i>
 
-### 🎓 Kids School Website
+* ### 🎓 Kids School Website
 
-A responsive React-based school website designed to provide information about academics, admissions, events, and facilities.
+<i> A responsive React-based school website designed to provide information about academics, admissions, events, and facilities.</i>
 
-### 🧮 Scientific Calculator
+* ### 🧮 Scientific Calculator
 
-A modern calculator built with React.js featuring scientific functions and responsive design.
+<i> A modern calculator built with React.js featuring scientific functions and responsive design.</i>
 
 ## 📊 GitHub Analytics
 
@@ -108,7 +108,7 @@ A modern calculator built with React.js featuring scientific functions and respo
   </a>
 </p>
 
-## 📚 Current Learning
+## 📚 Currently Learning
 
 * Data Structures & Algorithms
 * Advanced Java
@@ -126,13 +126,6 @@ A modern calculator built with React.js featuring scientific functions and respo
 ✔ Contribute to Open Source
 
 ✔ Start Software Development Career
-
-## 📈 GitHub Journey
-
-* 🚀 Building projects consistently
-* 💻 Practicing coding daily
-* 📚 Learning modern technologies
-* 🌱 Improving every day through hands-on development
 
 <div align="center">
 
