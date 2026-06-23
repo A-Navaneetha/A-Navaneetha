@@ -54,7 +54,7 @@
 
 ### 👨‍💻 Personal Portfolio Website
 
-A professional portfolio showcasing skills, projects, certifications, and achievements.
+<i> A professional portfolio showcasing skills, projects, certifications, and achievements.</i>
 
 ### 🚢 CaptainBook – Ship Reservation System
 
