@@ -4,13 +4,13 @@
 
 <i> <b> 🎓 B.Tech Final Year Student • AI & Data Science Streamline <b> </i>
 
-### 💻 Java Developer • 🌐 Web Developer • 💡 Learning DSA
+###  🌐 Web Developer • 💻 Java Developer • 💡 Learning DSA
 
 <i> Building innovative web applications, solving complex problems, and continuously growing as a software developer.</i>
 
 </div>
 
-## 🚀 About Me
+##  About Me
 
 * 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science**
 * 💻 Skilled in **Java, Python, Web Development, and Problem Solving**
@@ -19,7 +19,7 @@
 * 🚀 Love building real-world projects that solve practical problems
 * 🎯 Focused on continuous learning and career growth
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Programming Languages
 
@@ -50,7 +50,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
-## 🌟 Featured Projects
+## Featured Projects
 
 * ### 👨‍💻 Personal Portfolio Website
 
@@ -68,7 +68,7 @@
 
 <i> A modern calculator built with React.js featuring scientific functions and responsive design.</i>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=A-Navaneetha&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
@@ -108,14 +108,14 @@
   </a>
 </p>
 
-## 📚 Currently Learning
+## Currently Learning
 
 * Data Structures & Algorithms
 * Advanced Java
 * Full Stack Development
 * Problem Solving & Competitive Programming
 
-## 🎯 Current Goals
+## Current Goals
 
 ✔ Solve 500+ coding problems
 
