@@ -2,11 +2,11 @@
 
 # 👋 Hi, I'm A.Navaneetha
 
-### 🎓 B.Tech Final Year Student | AI & Data Science
+### 🎓 B.Tech Final Year Student • AI & Data Science Streamline
 
-### ☕ Java Developer • 🌐 Web Developer • 💡 DSA Learner
+### 💻 Java Developer • 🌐 Web Developer • 💡 Learning DSA
 
-Building innovative web applications, solving complex problems, and continuously growing as a software developer.
+<i> Building innovative web applications, solving complex problems, and continuously growing as a software developer.</i>
 
 </div>
 
@@ -33,20 +33,26 @@ Building innovative web applications, solving complex problems, and continuously
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
-### Backend & Database
+### Backend
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ## 🌟 Featured Projects
 
-### 💼 Personal Portfolio Website
+### 👨‍💻 Personal Portfolio Website
 
 A professional portfolio showcasing skills, projects, certifications, and achievements.
 
@@ -90,20 +96,34 @@ A modern calculator built with React.js featuring scientific functions and respo
 
 ## 🤝 Connect With Me
 
-📧 **Email:** [anavaneethasankar@gmail.com](mailto:anavaneethasankar@gmail.com)
+<p align="left">
+  <a href="mailto:anavaneethasankar@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
 
-💼 **LinkedIn:** linkedin.com/in/anavaneetha
+  <a href="https://www.linkedin.com/in/anavaneetha" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
 
-🟠 **LeetCode:** leetcode.com/u/A_Navaneetha
+  <a href="https://leetcode.com/u/A_Navaneetha/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="45" />
+  </a>
 
-🟢 **HackerRank:** hackerrank.com/profile/23HR1A3002
+  <a href="https://www.hackerrank.com/profile/23HR1A3002" target="_blank">
+    <img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="45" />
+  </a>
 
-🟤 **CodeChef:** codechef.com/users/anavaneetha
+  <a href="https://www.codechef.com/users/anavaneetha" target="_blank">
+    <img src="https://cdn.simpleicons.org/codechef/5B4638" height="45" />
+  </a>
+
+  <a href="https://github.com/A-Navaneetha" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
+</p>
 
 <div align="center">
 
-### ⭐ Code • Learn • Build • Grow
-
-*"Every expert was once a beginner who refused to give up."*
+###  Code • Learn • Build • Grow
 
 </div>
