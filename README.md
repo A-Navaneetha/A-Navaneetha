@@ -16,7 +16,8 @@
 * 💻 Skilled in **Java, Python, Web Development, and Problem Solving**
 * 🌱 Currently strengthening my knowledge in **Data Structures & Algorithms**
 * 🔍 Interested in Software Development and Full Stack Development
-* 🚀 Love building real-world projects that solve practical problems
+* 🚀 Building real-world projects that solve practical problems
+* 📧 Let's Connect: **[anavaneethasankar@gmail.com](mailto:anavaneethasankar@gmail.com)**
 * 🎯 Focused on continuous learning and career growth
 
 ## Tech Stack
