@@ -100,23 +100,23 @@ A modern calculator built with React.js featuring scientific functions and respo
   <a href="mailto:anavaneethasankar@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
-
+&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/anavaneetha" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
-
+&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/A_Navaneetha/" target="_blank">
     <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="45" />
   </a>
-
+&nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/23HR1A3002" target="_blank">
     <img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="45" />
   </a>
-
+&nbsp;&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/anavaneetha" target="_blank">
     <img src="https://cdn.simpleicons.org/codechef/5B4638" height="45" />
   </a>
-
+&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/A-Navaneetha" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="45" />
   </a>
