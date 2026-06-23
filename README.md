@@ -68,31 +68,17 @@ A responsive React-based school website designed to provide information about ac
 
 A modern calculator built with React.js featuring scientific functions and responsive design.
 
-## 📚 Current Learning
+## 📊 GitHub Analytics
 
-* Data Structures & Algorithms
-* Advanced Java
-* Full Stack Development
-* Problem Solving & Competitive Programming
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=A-Navaneetha&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Navaneetha&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-## 🎯 Current Goals
-
-✔ Solve 500+ coding problems
-
-✔ Strengthen Java and DSA skills
-
-✔ Build more full-stack projects
-
-✔ Contribute to Open Source
-
-✔ Start Software Development Career
-
-## 📈 GitHub Journey
-
-* 🚀 Building projects consistently
-* 💻 Practicing coding daily
-* 📚 Learning modern technologies
-* 🌱 Improving every day through hands-on development
+<p align="center">
+  <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=A-Navaneetha&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 🤝 Connect With Me
 
@@ -121,6 +107,32 @@ A modern calculator built with React.js featuring scientific functions and respo
     <img src="https://skillicons.dev/icons?i=github" height="45" />
   </a>
 </p>
+
+## 📚 Current Learning
+
+* Data Structures & Algorithms
+* Advanced Java
+* Full Stack Development
+* Problem Solving & Competitive Programming
+
+## 🎯 Current Goals
+
+✔ Solve 500+ coding problems
+
+✔ Strengthen Java and DSA skills
+
+✔ Build more full-stack projects
+
+✔ Contribute to Open Source
+
+✔ Start Software Development Career
+
+## 📈 GitHub Journey
+
+* 🚀 Building projects consistently
+* 💻 Practicing coding daily
+* 📚 Learning modern technologies
+* 🌱 Improving every day through hands-on development
 
 <div align="center">
 
