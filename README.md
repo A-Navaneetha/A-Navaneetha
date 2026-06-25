@@ -3,6 +3,7 @@
 # 👋 Hi, I'm A.Navaneetha
 
 <i> <b> 🎓 B.Tech Final Year Student • AI & Data Science Streamline <b> </i>
+
 <i> Building innovative web applications, solving complex problems, and continuously growing as a software developer.</i>
 ###  🌐 Web Developer • 💻 Java Developer • 💡 Learning DSA
 </div>
