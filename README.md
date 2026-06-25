@@ -62,10 +62,6 @@
 
 <i> A responsive React-based school website designed to provide information about academics, admissions, events, and facilities.</i>
 
-* ### 🧮 Scientific Calculator
-
-<i> A modern calculator built with React.js featuring scientific functions and responsive design.</i>
-
 ## GitHub Analytics
 
 <p align="center">
