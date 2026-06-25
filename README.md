@@ -3,11 +3,8 @@
 # 👋 Hi, I'm A.Navaneetha
 
 <i> <b> 🎓 B.Tech Final Year Student • AI & Data Science Streamline <b> </i>
-
-###  🌐 Web Developer • 💻 Java Developer • 💡 Learning DSA
-
 <i> Building innovative web applications, solving complex problems, and continuously growing as a software developer.</i>
-
+###  🌐 Web Developer • 💻 Java Developer • 💡 Learning DSA
 </div>
 
 ##  About Me
@@ -16,7 +13,6 @@
 * 💻 Skilled in **Java, Python, Web Development, and Problem Solving**
 * 🌱 Currently strengthening my knowledge in **Data Structures & Algorithms**
 * 🔍 Interested in Software Development and Full Stack Development
-* 🚀 Building real-world projects that solve practical problems
 * 📧 Let's Connect: **[anavaneethasankar@gmail.com](mailto:anavaneethasankar@gmail.com)**
 * 🎯 Focused on continuous learning and career growth
 
