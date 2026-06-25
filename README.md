@@ -58,7 +58,7 @@
 
 <i> A full-stack web application that enables users to search ships, view schedules, reserve tickets, and manage bookings through an intuitive interface.</i>
 
-* ### 🎓 Kids School Website
+* ### 🏫 Kids School Website
 
 <i> A responsive React-based school website designed to provide information about academics, admissions, events, and facilities.</i>
 
