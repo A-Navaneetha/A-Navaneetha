@@ -1,7 +1,7 @@
-<div align="center">
-
 # 👋 Hi, I'm A.Navaneetha
 
+<div align="center">
+  
 <i> <b> 🎓 B.Tech Final Year Student • AI & Data Science Streamline <b> </i>
 
 <i> Building innovative web applications, solving complex problems, and continuously growing as a software developer.</i>
