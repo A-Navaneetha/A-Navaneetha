@@ -65,16 +65,8 @@
 ## GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=A-Navaneetha&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Navaneetha&layout=compact&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com?user=A-Navaneetha&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
 </p>
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=A-Navaneetha&theme=onedark&margin-w=15)
 
 ## 🤝 Connect With Me
 
