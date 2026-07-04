@@ -64,15 +64,17 @@
 
 ## GitHub Analytics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=A-Navaneetha&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Navaneetha&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=A-Navaneetha&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=A-Navaneetha&theme=tokyonight&hide_border=true" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Navaneetha&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=A-Navaneetha&theme=tokyonight)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=A-Navaneetha&theme=tokyo-night)
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=A-Navaneetha&theme=onedark&margin-w=15)
 
 ## 🤝 Connect With Me
 
