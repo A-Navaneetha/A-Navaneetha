@@ -63,9 +63,7 @@
 
 ## 🔥 GitHub Streak Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=A-Navaneetha&theme=tokyonight&hide_border=true" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=A-Navaneetha&theme=tokyonight&hide_border=true)
 
 ## 🤝 Connect With Me
 
