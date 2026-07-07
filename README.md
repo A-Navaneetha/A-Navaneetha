@@ -64,10 +64,11 @@
 ## 🔥 GitHub Streak Stats
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=A-Navaneetha&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=A-Navaneetha&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Navaneetha&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ## 🤝 Connect With Me
