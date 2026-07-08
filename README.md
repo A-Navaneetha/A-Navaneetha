@@ -61,16 +61,6 @@
 
 <i> A responsive React-based school website designed to provide information about academics, admissions, events, and facilities.</i>
 
-## 🔥 GitHub Streak Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=A-Navaneetha&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Navaneetha&layout=compact&theme=tokyonight"/>
-
-</p>
-
 ## 🤝 Connect With Me
 
 <p align="left">
